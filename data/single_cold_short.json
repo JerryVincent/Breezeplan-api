@@ -1,0 +1,27 @@
+{
+    "54885b7366557ee3bc13990e8b712c1a": {
+        "key": [
+            "Cold",
+            "High",
+            "Calm",
+            "Light Rain",
+            "Short",
+            "Single",
+            "Unknown",
+            [
+                "Adult"
+            ],
+            "Unknown",
+            "Beginner",
+            "Beginner"
+        ],
+        "values": {
+            "Bird Watching": -1,
+            "Photography Walk": -1,
+            "Sledding": -1,
+            "Winter Photography": -1,
+            "Morning Walk": -1,
+            "Outdoor Winter Market Visit": -1
+        }
+    }
+}
