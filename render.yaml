@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: breezeplan-api
+    env: docker
+    plan: free
+    healthCheckPath: /
+    envVars:
+      - key: WEATHER_API_KEY
+        sync: false
+      - key: MONGODB_URI
+        sync: false
+      - key: DB_NAME
+        sync: false
