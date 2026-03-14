@@ -1,5 +1,6 @@
 from fastapi import APIRouter
 import httpx
+import os
 from pydantic import BaseModel
 
 router = APIRouter(prefix="/weather", tags=["Weather"])
@@ -10,7 +11,7 @@ class WeatherRoutes:
     @router.post("/weatherData")
     async def get_weather_data(latitude: float, longitude: float): 
         base_url = "http://api.weatherapi.com/v1/forecast.json"
-        api_key = "ad4fd6881cf24aeb98395308242911"  # Replace with your actual API key
+        api_key = os.getenv("WEATHER_API_KEY")
         days = 3
 
         params = {

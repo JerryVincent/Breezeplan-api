@@ -16,6 +16,31 @@
             "Beginner"
         ],
         "values": {
+            "Bird Watching": -2,
+            "Photography Walk": -2,
+            "Sledding": -2,
+            "Winter Photography": -2,
+            "Morning Walk": -2,
+            "Outdoor Winter Market Visit": -2
+        }
+    },
+    "1d4dcbf26c94e92852aa82d20911b951": {
+        "key": [
+            "Cold",
+            "High",
+            "Calm",
+            "Light Rain",
+            "Short",
+            "Single",
+            "Unknown",
+            [
+                "Senior"
+            ],
+            "Unknown",
+            "Advanced",
+            "Advanced"
+        ],
+        "values": {
             "Bird Watching": -1,
             "Photography Walk": -1,
             "Sledding": -1,

@@ -1,0 +1,17 @@
+# Python virtual environment
+env/
+venv/
+.venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Q-table data (generated at runtime, not needed in repo)
+data/
+
+# outdoor_activity_data/ is intentionally NOT gitignored — Render needs these files
