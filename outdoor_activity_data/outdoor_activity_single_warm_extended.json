@@ -1,1 +1,154 @@
-{}
+[
+  {
+    "id": 1,
+    "activity": "Cycling",
+    "description": "Explore Münster on two wheels along its famous Promenade ring or riverside paths.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Promenade Ring",
+      "lighting": "Well-lit tree-lined boulevard",
+      "description": "A 4.5 km tree-lined ring encircling the old city, beloved by cyclists and pedestrians alike.",
+      "redirectUrl": "https://maps.google.com/?q=Promenade+Münster",
+      "safetyTips": [
+        "Yield to pedestrians",
+        "Follow cycling direction signs",
+        "Lock bikes at official stands"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "activity": "Hiking",
+    "description": "Trek through forested trails on the outskirts of Münster and breathe in the fresh air.",
+    "groupSuitability": "Great for individuals, couples, or small groups",
+    "timeRequired": "90–150 min",
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Sentruper Höhe Forest Trails",
+      "lighting": "Low lighting under tree canopy — bring a torch in winter",
+      "description": "A network of well-marked trails through mixed woodland on the western edge of Münster.",
+      "redirectUrl": "https://maps.google.com/?q=Sentruper+Höhe+Münster",
+      "safetyTips": [
+        "Wear sturdy footwear",
+        "Inform someone of your route",
+        "Carry a charged mobile phone"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "activity": "Rock Climbing (Indoor)",
+    "description": "Tackle bouldering walls and roped routes at Münster's climbing gym — great year-round.",
+    "groupSuitability": "Suitable for individuals, couples, and small groups",
+    "timeRequired": "90–180 min",
+    "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "High East Bouldering Gym, Münster",
+      "lighting": "Fully lit indoor facility",
+      "description": "Modern bouldering and lead-climbing walls suitable for all skill levels, from complete beginners to advanced climbers.",
+      "redirectUrl": "https://maps.google.com/?q=Kletterhalle+Münster",
+      "safetyTips": [
+        "Complete safety briefing before first visit",
+        "Wear appropriate climbing shoes",
+        "Spot your partner on bouldering walls"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "activity": "Geocaching",
+    "description": "Use GPS to hunt for hidden caches scattered around Münster's parks and landmarks.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "60–180 min",
+    "image": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster City & Surroundings",
+      "lighting": "Varies by cache location — most are accessible in daylight",
+      "description": "Hundreds of geocaches hidden across Münster — from the city centre to forests and cycle paths.",
+      "redirectUrl": "https://maps.google.com/?q=Münster+city+centre",
+      "safetyTips": [
+        "Download the Geocaching app before you go",
+        "Respect private property",
+        "Return the cache exactly as found"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "activity": "Jogging",
+    "description": "A refreshing jog along the scenic Aasee lake path, ideal for clearing your head.",
+    "groupSuitability": "Best for individuals or couples",
+    "timeRequired": "20–45 min",
+    "image": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Aasee Lake Trail",
+      "lighting": "Well-lit path along the lake",
+      "description": "A 7 km paved ring around the Aasee lake, flat and popular with joggers year-round.",
+      "redirectUrl": "https://maps.google.com/?q=Aasee+Münster",
+      "safetyTips": [
+        "Watch for cyclists sharing the path",
+        "Wear reflective gear in low light",
+        "Stay hydrated"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "activity": "Outdoor Yoga",
+    "description": "Start your day with a calming yoga session surrounded by the palace gardens.",
+    "groupSuitability": "Suitable for individuals or groups up to 6",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Schloss Garden (University Palace Gardens)",
+      "lighting": "Open and sunny during daytime",
+      "description": "The elegant baroque palace gardens of Münster University — flat lawns perfect for yoga mats.",
+      "redirectUrl": "https://maps.google.com/?q=Schloss+Münster",
+      "safetyTips": [
+        "Bring your own mat",
+        "Be respectful of other visitors",
+        "Check garden opening hours"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "activity": "Photography Walk",
+    "description": "Capture stunning urban and nature shots on a guided self-tour of Münster's most photogenic spots.",
+    "groupSuitability": "Perfect for solo explorers or pairs",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Old City & Promenade",
+      "lighting": "Best in golden hour (early morning or late afternoon)",
+      "description": "From the Lambertikirche to the Promenade elm trees, Münster offers countless photogenic corners.",
+      "redirectUrl": "https://maps.google.com/?q=Lambertikirche+Münster",
+      "safetyTips": [
+        "Be respectful when photographing people",
+        "Watch your step on cobblestones",
+        "Keep equipment secure in crowds"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "activity": "Stand-Up Paddleboarding",
+    "description": "Test your balance and core strength on a stand-up paddleboard on the Aasee.",
+    "groupSuitability": "Suitable for individuals or couples",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1559829099-8d54ef4b22e4?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Aasee Lake — South Shore",
+      "lighting": "Open water with good natural light",
+      "description": "The calm, shallow waters near the Aasee south shore are ideal for paddleboarding beginners.",
+      "redirectUrl": "https://maps.google.com/?q=Aasee+Südseite+Münster",
+      "safetyTips": [
+        "Wear a leash and life jacket",
+        "Avoid strong wind conditions",
+        "Stay within the designated area"
+      ]
+    }
+  }
+]

@@ -1,1 +1,154 @@
-{}
+[
+  {
+    "id": 1,
+    "activity": "Outdoor Yoga",
+    "description": "Start your day with a calming yoga session surrounded by the palace gardens.",
+    "groupSuitability": "Suitable for individuals or groups up to 6",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Schloss Garden (University Palace Gardens)",
+      "lighting": "Open and sunny during daytime",
+      "description": "The elegant baroque palace gardens of Münster University — flat lawns perfect for yoga mats.",
+      "redirectUrl": "https://maps.google.com/?q=Schloss+Münster",
+      "safetyTips": [
+        "Bring your own mat",
+        "Be respectful of other visitors",
+        "Check garden opening hours"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "activity": "Frisbee",
+    "description": "Toss a frisbee with friends on the open grass of Gievenbeck Park.",
+    "groupSuitability": "Best for pairs or small groups",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Gievenbeck Sports Park",
+      "lighting": "Open meadow — good light in daytime",
+      "description": "A residential sports park with large open grass areas suitable for informal games.",
+      "redirectUrl": "https://maps.google.com/?q=Gievenbeck+Münster",
+      "safetyTips": [
+        "Be aware of nearby pedestrians",
+        "Avoid throwing near dog walkers",
+        "Use soft discs for beginners"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "activity": "Skateboarding",
+    "description": "Practice tricks and cruise around Münster's popular skate park near the Aasee.",
+    "groupSuitability": "Great for individuals or small groups",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1547447134-cd3f5c716030?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Skatepark Münster (near Aasee)",
+      "lighting": "Partially lit — best in daytime",
+      "description": "A well-maintained skate park with bowls, rails, and flat sections for all skill levels.",
+      "redirectUrl": "https://maps.google.com/?q=Skatepark+Münster+Aasee",
+      "safetyTips": [
+        "Wear a helmet and pads",
+        "Respect right-of-way on shared obstacles",
+        "Keep the area tidy"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "activity": "Kite Flying",
+    "description": "Let your kite soar on the wide open meadows of Westpark — perfect when it's breezy.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Westpark Open Meadow",
+      "lighting": "Open parkland with good natural light",
+      "description": "Wide, flat meadows with minimal obstacles — ideal conditions for getting a kite up quickly.",
+      "redirectUrl": "https://maps.google.com/?q=Westpark+Münster",
+      "safetyTips": [
+        "Avoid flying near power lines or trees",
+        "Keep children away from kite lines",
+        "Lower the kite in thunderstorms"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "activity": "Sunset Walk",
+    "description": "Stroll along the harbour or lakeside to enjoy Münster's evening golden hour.",
+    "groupSuitability": "Wonderful for all group sizes",
+    "timeRequired": "20–40 min",
+    "image": "https://images.unsplash.com/photo-1475552113915-6fcb52652ba2?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Harbour (Hafen)",
+      "lighting": "Well-lit urban waterfront",
+      "description": "The converted industrial harbour is Münster's trendiest evening destination — cafes, art, and waterside views.",
+      "redirectUrl": "https://maps.google.com/?q=Hafen+Münster",
+      "safetyTips": [
+        "Stay on the designated pedestrian areas",
+        "Watch children near the water edge",
+        "Busy at weekends — allow extra time"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "activity": "Cycling",
+    "description": "Explore Münster on two wheels along its famous Promenade ring or riverside paths.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Promenade Ring",
+      "lighting": "Well-lit tree-lined boulevard",
+      "description": "A 4.5 km tree-lined ring encircling the old city, beloved by cyclists and pedestrians alike.",
+      "redirectUrl": "https://maps.google.com/?q=Promenade+Münster",
+      "safetyTips": [
+        "Yield to pedestrians",
+        "Follow cycling direction signs",
+        "Lock bikes at official stands"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "activity": "Hiking",
+    "description": "Trek through forested trails on the outskirts of Münster and breathe in the fresh air.",
+    "groupSuitability": "Great for individuals, couples, or small groups",
+    "timeRequired": "90–150 min",
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Sentruper Höhe Forest Trails",
+      "lighting": "Low lighting under tree canopy — bring a torch in winter",
+      "description": "A network of well-marked trails through mixed woodland on the western edge of Münster.",
+      "redirectUrl": "https://maps.google.com/?q=Sentruper+Höhe+Münster",
+      "safetyTips": [
+        "Wear sturdy footwear",
+        "Inform someone of your route",
+        "Carry a charged mobile phone"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "activity": "Picnic",
+    "description": "Relax on the grass with good food and great company in one of Münster's green spaces.",
+    "groupSuitability": "Perfect for couples, families, and small groups",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Westpark Münster",
+      "lighting": "Open parkland — good natural light",
+      "description": "A spacious park in western Münster with wide meadows, ideal for picnics and relaxation.",
+      "redirectUrl": "https://maps.google.com/?q=Westpark+Münster",
+      "safetyTips": [
+        "Take your litter home",
+        "Keep noise levels considerate",
+        "Avoid areas with bees and wasps near food"
+      ]
+    }
+  }
+]

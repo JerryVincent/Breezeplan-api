@@ -1,42 +1,249 @@
 [
-    {
-        "id": 1,
-        "activity": "Jogging",
-        "description": "A light jog around the local park.",
-        "groupSuitability": "Suitable for individuals and couples",
-        "timeRequired": "60-90 min",
-        "image": "https://example.com/images/jogging.jpg",
-        "locationInfo": {
-          "pathNameOrLocationName": "City Park Loop",
-          "length": "3.0 km",
-          "lighting": "Well-lit",
-          "description": "A jogging loop around the main city park with excellent lighting.",
-          "redirectUrl": "https://www.google.com/maps/dir/?api=1&destination=52.524000,13.410000&travelmode=walking",
-          "safetyTips": [
-            "Wear comfortable running shoes.",
-            "Stretch before and after jogging.",
-            "Carry a water bottle to stay hydrated."
-          ]
-        }
-      },
-      {
-        "id": 2,
-        "activity": "Cycling",
-        "description": "A cycling trip along the riverfront.",
-        "groupSuitability": "Suitable for small groups (2-3 people)",
-        "timeRequired": "60 min",
-        "image": "https://example.com/images/cycling.jpg",
-        "locationInfo": {
-          "pathNameOrLocationName": "Riverfront Cycling Trail",
-          "length": "15.0 km",
-          "lighting": "Partially lit",
-          "description": "A scenic cycling route along the river with views of the city.",
-          "redirectUrl": "https://www.google.com/maps/dir/?api=1&destination=52.510000,13.405000&travelmode=bicycling",
-          "safetyTips": [
-            "Wear a helmet for safety.",
-            "Keep a safe distance from other cyclists.",
-            "Check your bike before starting the ride."
-          ]
-        }
-      }
+  {
+    "id": 1,
+    "activity": "Cycling",
+    "description": "Explore Münster on two wheels along its famous Promenade ring or riverside paths.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Promenade Ring",
+      "lighting": "Well-lit tree-lined boulevard",
+      "description": "A 4.5 km tree-lined ring encircling the old city, beloved by cyclists and pedestrians alike.",
+      "redirectUrl": "https://maps.google.com/?q=Promenade+Münster",
+      "safetyTips": [
+        "Yield to pedestrians",
+        "Follow cycling direction signs",
+        "Lock bikes at official stands"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "activity": "Hiking",
+    "description": "Trek through forested trails on the outskirts of Münster and breathe in the fresh air.",
+    "groupSuitability": "Great for individuals, couples, or small groups",
+    "timeRequired": "90–150 min",
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Sentruper Höhe Forest Trails",
+      "lighting": "Low lighting under tree canopy — bring a torch in winter",
+      "description": "A network of well-marked trails through mixed woodland on the western edge of Münster.",
+      "redirectUrl": "https://maps.google.com/?q=Sentruper+Höhe+Münster",
+      "safetyTips": [
+        "Wear sturdy footwear",
+        "Inform someone of your route",
+        "Carry a charged mobile phone"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "activity": "Soccer",
+    "description": "Organise a casual kick-about on one of Münster's public sports fields.",
+    "groupSuitability": "Best for teams of 6–12 people",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1599058918144-1ffabb351dce?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Gievenbeck Sports Grounds",
+      "lighting": "Floodlit pitches available in evenings",
+      "description": "Public football pitches with marked fields — first come, first served.",
+      "redirectUrl": "https://maps.google.com/?q=Gievenbeck+Sportplatz+Münster",
+      "safetyTips": [
+        "Warm up before play",
+        "Bring plenty of water",
+        "Check pitch availability during busy periods"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "activity": "Ice Skating",
+    "description": "Glide on the ice at Münster's main rink — great fun for all abilities in the winter months.",
+    "groupSuitability": "Suitable for individuals, couples, and small groups",
+    "timeRequired": "60–90 min",
+    "image": "https://images.unsplash.com/photo-1548777123-e216912df7d8?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Eishalle Münster",
+      "lighting": "Fully lit indoor facility",
+      "description": "Münster's indoor ice rink offering public skating sessions throughout the winter season.",
+      "redirectUrl": "https://maps.google.com/?q=Eishalle+Münster",
+      "safetyTips": [
+        "Wear proper ankle-supporting skates",
+        "Beginners should use rink aids",
+        "Helmets recommended for children"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "activity": "Nordic Walking",
+    "description": "A low-impact full-body workout using poles along Münster's flat trails.",
+    "groupSuitability": "Suitable for individuals or small groups",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Promenade & Aasee Ring",
+      "lighting": "Well-lit paths suitable for early mornings",
+      "description": "Flat, paved routes with minimal traffic — ideal for Nordic walking technique.",
+      "redirectUrl": "https://maps.google.com/?q=Promenade+Münster",
+      "safetyTips": [
+        "Use rubber tips on poles to protect pavement",
+        "Yield to cyclists",
+        "Warm up wrists and shoulders first"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "activity": "Rock Climbing (Indoor)",
+    "description": "Tackle bouldering walls and roped routes at Münster's climbing gym — great year-round.",
+    "groupSuitability": "Suitable for individuals, couples, and small groups",
+    "timeRequired": "90–180 min",
+    "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "High East Bouldering Gym, Münster",
+      "lighting": "Fully lit indoor facility",
+      "description": "Modern bouldering and lead-climbing walls suitable for all skill levels, from complete beginners to advanced climbers.",
+      "redirectUrl": "https://maps.google.com/?q=Kletterhalle+Münster",
+      "safetyTips": [
+        "Complete safety briefing before first visit",
+        "Wear appropriate climbing shoes",
+        "Spot your partner on bouldering walls"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "activity": "Geocaching",
+    "description": "Use GPS to hunt for hidden caches scattered around Münster's parks and landmarks.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "60–180 min",
+    "image": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster City & Surroundings",
+      "lighting": "Varies by cache location — most are accessible in daylight",
+      "description": "Hundreds of geocaches hidden across Münster — from the city centre to forests and cycle paths.",
+      "redirectUrl": "https://maps.google.com/?q=Münster+city+centre",
+      "safetyTips": [
+        "Download the Geocaching app before you go",
+        "Respect private property",
+        "Return the cache exactly as found"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "activity": "Orienteering",
+    "description": "Navigate using a map and compass through the forests around Münster in a self-timed challenge.",
+    "groupSuitability": "Best for individuals or small groups",
+    "timeRequired": "90–150 min",
+    "image": "https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Roxel Forest Orienteering Course",
+      "lighting": "Low in dense sections — not recommended after dark",
+      "description": "A dedicated orienteering area west of Münster with control points marked on specialist maps.",
+      "redirectUrl": "https://maps.google.com/?q=Wald+Roxel+Münster",
+      "safetyTips": [
+        "Carry a whistle and first aid kit",
+        "Don't stray beyond marked boundaries",
+        "Buddy system recommended for beginners"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "activity": "Nature Walk",
+    "description": "A gentle stroll through quiet woodland and fields, soaking up the natural surroundings.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Rieselfelder Münster Nature Reserve",
+      "lighting": "Open reserve — good natural light in daytime",
+      "description": "A UNESCO-recognised wetland reserve north of Münster, home to rare birds and wildflowers.",
+      "redirectUrl": "https://maps.google.com/?q=Rieselfelder+Münster",
+      "safetyTips": [
+        "Stick to marked paths to protect nesting wildlife",
+        "No dogs in the reserve",
+        "Bring binoculars for wildlife spotting"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "activity": "Team Scavenger Hunt",
+    "description": "Race through Münster solving clues at landmarks — a classic team-building adventure.",
+    "groupSuitability": "Best for groups of 6 or more",
+    "timeRequired": "90–180 min",
+    "image": "https://images.unsplash.com/photo-1607627000458-210e8197b2f0?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster City Centre",
+      "lighting": "Well-lit city streets and squares",
+      "description": "Create a route linking the Prinzipalmarkt, Dom, Lambertikirche, and Rathaus for a fun city-wide hunt.",
+      "redirectUrl": "https://maps.google.com/?q=Prinzipalmarkt+Münster",
+      "safetyTips": [
+        "Agree meeting points in advance",
+        "Keep groups together in busy areas",
+        "Carry a city map as backup"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "activity": "Zoo Visit",
+    "description": "Spend the day at the award-winning Allwetterzoo Münster — one of Germany's best all-weather zoos.",
+    "groupSuitability": "Great for families and groups of all sizes",
+    "timeRequired": "2–4 hours",
+    "image": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Allwetterzoo Münster",
+      "lighting": "Well-lit covered and outdoor areas",
+      "description": "A large all-weather zoo with covered walkways — enjoyable rain or shine, with over 300 animal species.",
+      "redirectUrl": "https://maps.google.com/?q=Allwetterzoo+Münster",
+      "safetyTips": [
+        "Follow all zoo safety guidelines",
+        "Don't feed the animals",
+        "Keep children within sight at all times"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "activity": "Casual Football",
+    "description": "Kick a ball around with friends for a fun, low-key game on the public fields.",
+    "groupSuitability": "Best for small and large groups",
+    "timeRequired": "45–75 min",
+    "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Westpark Meadow & Sports Field",
+      "lighting": "Open meadow — good during daylight",
+      "description": "Large open grass areas in Westpark often used for informal football games — no booking required.",
+      "redirectUrl": "https://maps.google.com/?q=Westpark+Münster",
+      "safetyTips": [
+        "Be mindful of other park users",
+        "No slide tackles on hard ground",
+        "Carry a basic first aid kit"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "activity": "Outdoor Winter Market Visit",
+    "description": "Browse stalls, sip Glühwein, and enjoy the festive atmosphere of Münster's winter market.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "30–90 min",
+    "image": "https://images.unsplash.com/photo-1512909006721-3d6018887383?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Christmas Market, Prinzipalmarkt",
+      "lighting": "Beautifully lit with market stalls",
+      "description": "One of Germany's most charming Christmas markets, set against the historic gabled townhouses of the Prinzipalmarkt.",
+      "redirectUrl": "https://maps.google.com/?q=Weihnachtsmarkt+Münster+Prinzipalmarkt",
+      "safetyTips": [
+        "Keep bags close in crowded areas",
+        "Be aware of open fire hazards near stalls",
+        "Dress warmly — market is outdoors"
+      ]
+    }
+  }
 ]

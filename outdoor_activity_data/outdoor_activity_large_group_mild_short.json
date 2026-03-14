@@ -1,1 +1,154 @@
-{}
+[
+  {
+    "id": 1,
+    "activity": "Frisbee",
+    "description": "Toss a frisbee with friends on the open grass of Gievenbeck Park.",
+    "groupSuitability": "Best for pairs or small groups",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Gievenbeck Sports Park",
+      "lighting": "Open meadow — good light in daytime",
+      "description": "A residential sports park with large open grass areas suitable for informal games.",
+      "redirectUrl": "https://maps.google.com/?q=Gievenbeck+Münster",
+      "safetyTips": [
+        "Be aware of nearby pedestrians",
+        "Avoid throwing near dog walkers",
+        "Use soft discs for beginners"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "activity": "Kite Flying",
+    "description": "Let your kite soar on the wide open meadows of Westpark — perfect when it's breezy.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Westpark Open Meadow",
+      "lighting": "Open parkland with good natural light",
+      "description": "Wide, flat meadows with minimal obstacles — ideal conditions for getting a kite up quickly.",
+      "redirectUrl": "https://maps.google.com/?q=Westpark+Münster",
+      "safetyTips": [
+        "Avoid flying near power lines or trees",
+        "Keep children away from kite lines",
+        "Lower the kite in thunderstorms"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "activity": "Sunset Walk",
+    "description": "Stroll along the harbour or lakeside to enjoy Münster's evening golden hour.",
+    "groupSuitability": "Wonderful for all group sizes",
+    "timeRequired": "20–40 min",
+    "image": "https://images.unsplash.com/photo-1475552113915-6fcb52652ba2?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Harbour (Hafen)",
+      "lighting": "Well-lit urban waterfront",
+      "description": "The converted industrial harbour is Münster's trendiest evening destination — cafes, art, and waterside views.",
+      "redirectUrl": "https://maps.google.com/?q=Hafen+Münster",
+      "safetyTips": [
+        "Stay on the designated pedestrian areas",
+        "Watch children near the water edge",
+        "Busy at weekends — allow extra time"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "activity": "Cycling",
+    "description": "Explore Münster on two wheels along its famous Promenade ring or riverside paths.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Promenade Ring",
+      "lighting": "Well-lit tree-lined boulevard",
+      "description": "A 4.5 km tree-lined ring encircling the old city, beloved by cyclists and pedestrians alike.",
+      "redirectUrl": "https://maps.google.com/?q=Promenade+Münster",
+      "safetyTips": [
+        "Yield to pedestrians",
+        "Follow cycling direction signs",
+        "Lock bikes at official stands"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "activity": "Picnic",
+    "description": "Relax on the grass with good food and great company in one of Münster's green spaces.",
+    "groupSuitability": "Perfect for couples, families, and small groups",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Westpark Münster",
+      "lighting": "Open parkland — good natural light",
+      "description": "A spacious park in western Münster with wide meadows, ideal for picnics and relaxation.",
+      "redirectUrl": "https://maps.google.com/?q=Westpark+Münster",
+      "safetyTips": [
+        "Take your litter home",
+        "Keep noise levels considerate",
+        "Avoid areas with bees and wasps near food"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "activity": "Soccer",
+    "description": "Organise a casual kick-about on one of Münster's public sports fields.",
+    "groupSuitability": "Best for teams of 6–12 people",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1599058918144-1ffabb351dce?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Gievenbeck Sports Grounds",
+      "lighting": "Floodlit pitches available in evenings",
+      "description": "Public football pitches with marked fields — first come, first served.",
+      "redirectUrl": "https://maps.google.com/?q=Gievenbeck+Sportplatz+Münster",
+      "safetyTips": [
+        "Warm up before play",
+        "Bring plenty of water",
+        "Check pitch availability during busy periods"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "activity": "Geocaching",
+    "description": "Use GPS to hunt for hidden caches scattered around Münster's parks and landmarks.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "60–180 min",
+    "image": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster City & Surroundings",
+      "lighting": "Varies by cache location — most are accessible in daylight",
+      "description": "Hundreds of geocaches hidden across Münster — from the city centre to forests and cycle paths.",
+      "redirectUrl": "https://maps.google.com/?q=Münster+city+centre",
+      "safetyTips": [
+        "Download the Geocaching app before you go",
+        "Respect private property",
+        "Return the cache exactly as found"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "activity": "Nature Walk",
+    "description": "A gentle stroll through quiet woodland and fields, soaking up the natural surroundings.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Rieselfelder Münster Nature Reserve",
+      "lighting": "Open reserve — good natural light in daytime",
+      "description": "A UNESCO-recognised wetland reserve north of Münster, home to rare birds and wildflowers.",
+      "redirectUrl": "https://maps.google.com/?q=Rieselfelder+Münster",
+      "safetyTips": [
+        "Stick to marked paths to protect nesting wildlife",
+        "No dogs in the reserve",
+        "Bring binoculars for wildlife spotting"
+      ]
+    }
+  }
+]

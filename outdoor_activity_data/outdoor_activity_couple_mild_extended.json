@@ -1,1 +1,135 @@
-{}
+[
+  {
+    "id": 1,
+    "activity": "Cycling",
+    "description": "Explore Münster on two wheels along its famous Promenade ring or riverside paths.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Promenade Ring",
+      "lighting": "Well-lit tree-lined boulevard",
+      "description": "A 4.5 km tree-lined ring encircling the old city, beloved by cyclists and pedestrians alike.",
+      "redirectUrl": "https://maps.google.com/?q=Promenade+Münster",
+      "safetyTips": [
+        "Yield to pedestrians",
+        "Follow cycling direction signs",
+        "Lock bikes at official stands"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "activity": "Hiking",
+    "description": "Trek through forested trails on the outskirts of Münster and breathe in the fresh air.",
+    "groupSuitability": "Great for individuals, couples, or small groups",
+    "timeRequired": "90–150 min",
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Sentruper Höhe Forest Trails",
+      "lighting": "Low lighting under tree canopy — bring a torch in winter",
+      "description": "A network of well-marked trails through mixed woodland on the western edge of Münster.",
+      "redirectUrl": "https://maps.google.com/?q=Sentruper+Höhe+Münster",
+      "safetyTips": [
+        "Wear sturdy footwear",
+        "Inform someone of your route",
+        "Carry a charged mobile phone"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "activity": "Rock Climbing (Indoor)",
+    "description": "Tackle bouldering walls and roped routes at Münster's climbing gym — great year-round.",
+    "groupSuitability": "Suitable for individuals, couples, and small groups",
+    "timeRequired": "90–180 min",
+    "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "High East Bouldering Gym, Münster",
+      "lighting": "Fully lit indoor facility",
+      "description": "Modern bouldering and lead-climbing walls suitable for all skill levels, from complete beginners to advanced climbers.",
+      "redirectUrl": "https://maps.google.com/?q=Kletterhalle+Münster",
+      "safetyTips": [
+        "Complete safety briefing before first visit",
+        "Wear appropriate climbing shoes",
+        "Spot your partner on bouldering walls"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "activity": "Geocaching",
+    "description": "Use GPS to hunt for hidden caches scattered around Münster's parks and landmarks.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "60–180 min",
+    "image": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster City & Surroundings",
+      "lighting": "Varies by cache location — most are accessible in daylight",
+      "description": "Hundreds of geocaches hidden across Münster — from the city centre to forests and cycle paths.",
+      "redirectUrl": "https://maps.google.com/?q=Münster+city+centre",
+      "safetyTips": [
+        "Download the Geocaching app before you go",
+        "Respect private property",
+        "Return the cache exactly as found"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "activity": "Orienteering",
+    "description": "Navigate using a map and compass through the forests around Münster in a self-timed challenge.",
+    "groupSuitability": "Best for individuals or small groups",
+    "timeRequired": "90–150 min",
+    "image": "https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Roxel Forest Orienteering Course",
+      "lighting": "Low in dense sections — not recommended after dark",
+      "description": "A dedicated orienteering area west of Münster with control points marked on specialist maps.",
+      "redirectUrl": "https://maps.google.com/?q=Wald+Roxel+Münster",
+      "safetyTips": [
+        "Carry a whistle and first aid kit",
+        "Don't stray beyond marked boundaries",
+        "Buddy system recommended for beginners"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "activity": "Stargazing",
+    "description": "Escape city light pollution and gaze at the night sky from the countryside near Münster.",
+    "groupSuitability": "Ideal for individuals or couples",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Rüschhaus Estate Fields",
+      "lighting": "Dark skies — no artificial lighting",
+      "description": "The flat open fields around the Rüschhaus estate offer some of the darkest skies near Münster.",
+      "redirectUrl": "https://maps.google.com/?q=Rüschhaus+Münster",
+      "safetyTips": [
+        "Bring warm layers — it gets cold quickly at night",
+        "Use red-light torches to preserve night vision",
+        "Inform someone where you're going"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "activity": "Zoo Visit",
+    "description": "Spend the day at the award-winning Allwetterzoo Münster — one of Germany's best all-weather zoos.",
+    "groupSuitability": "Great for families and groups of all sizes",
+    "timeRequired": "2–4 hours",
+    "image": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Allwetterzoo Münster",
+      "lighting": "Well-lit covered and outdoor areas",
+      "description": "A large all-weather zoo with covered walkways — enjoyable rain or shine, with over 300 animal species.",
+      "redirectUrl": "https://maps.google.com/?q=Allwetterzoo+Münster",
+      "safetyTips": [
+        "Follow all zoo safety guidelines",
+        "Don't feed the animals",
+        "Keep children within sight at all times"
+      ]
+    }
+  }
+]

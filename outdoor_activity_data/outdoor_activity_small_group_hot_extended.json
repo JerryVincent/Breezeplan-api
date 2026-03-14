@@ -1,1 +1,135 @@
-{}
+[
+  {
+    "id": 1,
+    "activity": "Rock Climbing (Indoor)",
+    "description": "Tackle bouldering walls and roped routes at Münster's climbing gym — great year-round.",
+    "groupSuitability": "Suitable for individuals, couples, and small groups",
+    "timeRequired": "90–180 min",
+    "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "High East Bouldering Gym, Münster",
+      "lighting": "Fully lit indoor facility",
+      "description": "Modern bouldering and lead-climbing walls suitable for all skill levels, from complete beginners to advanced climbers.",
+      "redirectUrl": "https://maps.google.com/?q=Kletterhalle+Münster",
+      "safetyTips": [
+        "Complete safety briefing before first visit",
+        "Wear appropriate climbing shoes",
+        "Spot your partner on bouldering walls"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "activity": "Outdoor BBQ",
+    "description": "Fire up the grill in one of Münster's designated BBQ areas for a relaxed outdoor meal.",
+    "groupSuitability": "Perfect for groups of any size",
+    "timeRequired": "2–4 hours",
+    "image": "https://images.unsplash.com/photo-1529543544282-ea669407fca3?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Westpark BBQ Area",
+      "lighting": "Open park — good afternoon light",
+      "description": "Westpark has designated BBQ zones with bins and benches — arrive early to secure a spot in summer.",
+      "redirectUrl": "https://maps.google.com/?q=Westpark+Münster",
+      "safetyTips": [
+        "Use designated BBQ zones only",
+        "Never leave the grill unattended",
+        "Extinguish coals fully before leaving"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "activity": "Zoo Visit",
+    "description": "Spend the day at the award-winning Allwetterzoo Münster — one of Germany's best all-weather zoos.",
+    "groupSuitability": "Great for families and groups of all sizes",
+    "timeRequired": "2–4 hours",
+    "image": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Allwetterzoo Münster",
+      "lighting": "Well-lit covered and outdoor areas",
+      "description": "A large all-weather zoo with covered walkways — enjoyable rain or shine, with over 300 animal species.",
+      "redirectUrl": "https://maps.google.com/?q=Allwetterzoo+Münster",
+      "safetyTips": [
+        "Follow all zoo safety guidelines",
+        "Don't feed the animals",
+        "Keep children within sight at all times"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "activity": "Picnic",
+    "description": "Relax on the grass with good food and great company in one of Münster's green spaces.",
+    "groupSuitability": "Perfect for couples, families, and small groups",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Westpark Münster",
+      "lighting": "Open parkland — good natural light",
+      "description": "A spacious park in western Münster with wide meadows, ideal for picnics and relaxation.",
+      "redirectUrl": "https://maps.google.com/?q=Westpark+Münster",
+      "safetyTips": [
+        "Take your litter home",
+        "Keep noise levels considerate",
+        "Avoid areas with bees and wasps near food"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "activity": "Swimming",
+    "description": "Cool off on a hot day at one of Münster's outdoor swimming facilities.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Freibad Coburg (Münster Outdoor Pool)",
+      "lighting": "Open outdoor facility — sunlit",
+      "description": "Münster's main outdoor pool with multiple swimming lanes, slides, and sunbathing areas.",
+      "redirectUrl": "https://maps.google.com/?q=Freibad+Coburg+Münster",
+      "safetyTips": [
+        "Follow lifeguard instructions",
+        "Apply sunscreen generously",
+        "Never swim alone in open water"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "activity": "Beach Volleyball",
+    "description": "Spike, set, and serve on Münster's sandy beach volleyball courts by the Aasee.",
+    "groupSuitability": "Best for teams of 4–8 people",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Aasee Beach Volleyball Courts",
+      "lighting": "Open outdoor courts — daylight hours only",
+      "description": "Official sand courts on the Aasee lakeside, bookable or first-come-first-served in summer.",
+      "redirectUrl": "https://maps.google.com/?q=Beachvolleyball+Aasee+Münster",
+      "safetyTips": [
+        "Check court availability before travelling",
+        "Apply sunscreen in summer",
+        "Bring enough water for the team"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "activity": "Sunset Walk",
+    "description": "Stroll along the harbour or lakeside to enjoy Münster's evening golden hour.",
+    "groupSuitability": "Wonderful for all group sizes",
+    "timeRequired": "20–40 min",
+    "image": "https://images.unsplash.com/photo-1475552113915-6fcb52652ba2?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Harbour (Hafen)",
+      "lighting": "Well-lit urban waterfront",
+      "description": "The converted industrial harbour is Münster's trendiest evening destination — cafes, art, and waterside views.",
+      "redirectUrl": "https://maps.google.com/?q=Hafen+Münster",
+      "safetyTips": [
+        "Stay on the designated pedestrian areas",
+        "Watch children near the water edge",
+        "Busy at weekends — allow extra time"
+      ]
+    }
+  }
+]

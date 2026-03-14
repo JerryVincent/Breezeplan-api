@@ -1,1 +1,287 @@
-{}
+[
+  {
+    "id": 1,
+    "activity": "Jogging",
+    "description": "A refreshing jog along the scenic Aasee lake path, ideal for clearing your head.",
+    "groupSuitability": "Best for individuals or couples",
+    "timeRequired": "20–45 min",
+    "image": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Aasee Lake Trail",
+      "lighting": "Well-lit path along the lake",
+      "description": "A 7 km paved ring around the Aasee lake, flat and popular with joggers year-round.",
+      "redirectUrl": "https://maps.google.com/?q=Aasee+Münster",
+      "safetyTips": [
+        "Watch for cyclists sharing the path",
+        "Wear reflective gear in low light",
+        "Stay hydrated"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "activity": "Cycling",
+    "description": "Explore Münster on two wheels along its famous Promenade ring or riverside paths.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Promenade Ring",
+      "lighting": "Well-lit tree-lined boulevard",
+      "description": "A 4.5 km tree-lined ring encircling the old city, beloved by cyclists and pedestrians alike.",
+      "redirectUrl": "https://maps.google.com/?q=Promenade+Münster",
+      "safetyTips": [
+        "Yield to pedestrians",
+        "Follow cycling direction signs",
+        "Lock bikes at official stands"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "activity": "Outdoor Yoga",
+    "description": "Start your day with a calming yoga session surrounded by the palace gardens.",
+    "groupSuitability": "Suitable for individuals or groups up to 6",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Schloss Garden (University Palace Gardens)",
+      "lighting": "Open and sunny during daytime",
+      "description": "The elegant baroque palace gardens of Münster University — flat lawns perfect for yoga mats.",
+      "redirectUrl": "https://maps.google.com/?q=Schloss+Münster",
+      "safetyTips": [
+        "Bring your own mat",
+        "Be respectful of other visitors",
+        "Check garden opening hours"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "activity": "Picnic",
+    "description": "Relax on the grass with good food and great company in one of Münster's green spaces.",
+    "groupSuitability": "Perfect for couples, families, and small groups",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Westpark Münster",
+      "lighting": "Open parkland — good natural light",
+      "description": "A spacious park in western Münster with wide meadows, ideal for picnics and relaxation.",
+      "redirectUrl": "https://maps.google.com/?q=Westpark+Münster",
+      "safetyTips": [
+        "Take your litter home",
+        "Keep noise levels considerate",
+        "Avoid areas with bees and wasps near food"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "activity": "Frisbee",
+    "description": "Toss a frisbee with friends on the open grass of Gievenbeck Park.",
+    "groupSuitability": "Best for pairs or small groups",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Gievenbeck Sports Park",
+      "lighting": "Open meadow — good light in daytime",
+      "description": "A residential sports park with large open grass areas suitable for informal games.",
+      "redirectUrl": "https://maps.google.com/?q=Gievenbeck+Münster",
+      "safetyTips": [
+        "Be aware of nearby pedestrians",
+        "Avoid throwing near dog walkers",
+        "Use soft discs for beginners"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "activity": "Bird Watching",
+    "description": "Spot a variety of bird species around the reed beds and shores of the Aasee lake.",
+    "groupSuitability": "Ideal for individuals or couples",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1552727131-5fc6af2b0ae4?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Aasee Lakeside Nature Area",
+      "lighting": "Open lakeside — best at dawn and dusk",
+      "description": "The reed beds on the south bank of Aasee are a haven for waterfowl, herons, and migratory birds.",
+      "redirectUrl": "https://maps.google.com/?q=Aasee+Südseite+Münster",
+      "safetyTips": [
+        "Keep noise to a minimum",
+        "Don't disturb nesting areas",
+        "Binoculars recommended"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "activity": "Photography Walk",
+    "description": "Capture stunning urban and nature shots on a guided self-tour of Münster's most photogenic spots.",
+    "groupSuitability": "Perfect for solo explorers or pairs",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Old City & Promenade",
+      "lighting": "Best in golden hour (early morning or late afternoon)",
+      "description": "From the Lambertikirche to the Promenade elm trees, Münster offers countless photogenic corners.",
+      "redirectUrl": "https://maps.google.com/?q=Lambertikirche+Münster",
+      "safetyTips": [
+        "Be respectful when photographing people",
+        "Watch your step on cobblestones",
+        "Keep equipment secure in crowds"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "activity": "Nordic Walking",
+    "description": "A low-impact full-body workout using poles along Münster's flat trails.",
+    "groupSuitability": "Suitable for individuals or small groups",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Promenade & Aasee Ring",
+      "lighting": "Well-lit paths suitable for early mornings",
+      "description": "Flat, paved routes with minimal traffic — ideal for Nordic walking technique.",
+      "redirectUrl": "https://maps.google.com/?q=Promenade+Münster",
+      "safetyTips": [
+        "Use rubber tips on poles to protect pavement",
+        "Yield to cyclists",
+        "Warm up wrists and shoulders first"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "activity": "Kayaking",
+    "description": "Paddle across the calm waters of the Aasee lake and discover a tranquil side of Münster.",
+    "groupSuitability": "Great for couples or small groups",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Aasee Lake Rental Point",
+      "lighting": "Open water — good visibility in daylight",
+      "description": "Kayak and canoe rentals available at the Aasee boathouse. Calm waters and scenic shores.",
+      "redirectUrl": "https://maps.google.com/?q=Aasee+Bootsverleih+Münster",
+      "safetyTips": [
+        "Wear a life jacket at all times",
+        "Avoid the middle channel used by sailing boats",
+        "Check weather before heading out"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "activity": "Trail Running",
+    "description": "Push your limits on the wooded trails of Sentruper Höhe — a favourite with Münster's runners.",
+    "groupSuitability": "Best for individuals or small groups",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1527956041665-d7a1b380c460?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Sentruper Höhe Trail Network",
+      "lighting": "Shaded forest paths — bring a headtorch for dawn/dusk",
+      "description": "Undulating trails through birch and oak woodland — a refreshing change from city pavement.",
+      "redirectUrl": "https://maps.google.com/?q=Sentruper+Höhe+Münster",
+      "safetyTips": [
+        "Wear trail shoes",
+        "Carry water",
+        "Tell someone your route and expected return time"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "activity": "Geocaching",
+    "description": "Use GPS to hunt for hidden caches scattered around Münster's parks and landmarks.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "60–180 min",
+    "image": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster City & Surroundings",
+      "lighting": "Varies by cache location — most are accessible in daylight",
+      "description": "Hundreds of geocaches hidden across Münster — from the city centre to forests and cycle paths.",
+      "redirectUrl": "https://maps.google.com/?q=Münster+city+centre",
+      "safetyTips": [
+        "Download the Geocaching app before you go",
+        "Respect private property",
+        "Return the cache exactly as found"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "activity": "Skateboarding",
+    "description": "Practice tricks and cruise around Münster's popular skate park near the Aasee.",
+    "groupSuitability": "Great for individuals or small groups",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1547447134-cd3f5c716030?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Skatepark Münster (near Aasee)",
+      "lighting": "Partially lit — best in daytime",
+      "description": "A well-maintained skate park with bowls, rails, and flat sections for all skill levels.",
+      "redirectUrl": "https://maps.google.com/?q=Skatepark+Münster+Aasee",
+      "safetyTips": [
+        "Wear a helmet and pads",
+        "Respect right-of-way on shared obstacles",
+        "Keep the area tidy"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "activity": "Kite Flying",
+    "description": "Let your kite soar on the wide open meadows of Westpark — perfect when it's breezy.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Westpark Open Meadow",
+      "lighting": "Open parkland with good natural light",
+      "description": "Wide, flat meadows with minimal obstacles — ideal conditions for getting a kite up quickly.",
+      "redirectUrl": "https://maps.google.com/?q=Westpark+Münster",
+      "safetyTips": [
+        "Avoid flying near power lines or trees",
+        "Keep children away from kite lines",
+        "Lower the kite in thunderstorms"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "activity": "Nature Walk",
+    "description": "A gentle stroll through quiet woodland and fields, soaking up the natural surroundings.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Rieselfelder Münster Nature Reserve",
+      "lighting": "Open reserve — good natural light in daytime",
+      "description": "A UNESCO-recognised wetland reserve north of Münster, home to rare birds and wildflowers.",
+      "redirectUrl": "https://maps.google.com/?q=Rieselfelder+Münster",
+      "safetyTips": [
+        "Stick to marked paths to protect nesting wildlife",
+        "No dogs in the reserve",
+        "Bring binoculars for wildlife spotting"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "activity": "Park Workout",
+    "description": "Use the outdoor fitness equipment along the Promenade for a free, equipment-led workout.",
+    "groupSuitability": "Best for individuals or couples",
+    "timeRequired": "20–45 min",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Promenade Fitness Trail",
+      "lighting": "Well-lit boulevard",
+      "description": "Outdoor gym stations installed along the Promenade — free to use, suitable for all fitness levels.",
+      "redirectUrl": "https://maps.google.com/?q=Promenade+Münster",
+      "safetyTips": [
+        "Warm up before using equipment",
+        "Wipe down equipment after use",
+        "Respect other users' space"
+      ]
+    }
+  }
+]

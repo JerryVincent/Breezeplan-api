@@ -1,1 +1,154 @@
-{}
+[
+  {
+    "id": 1,
+    "activity": "Cycling",
+    "description": "Explore Münster on two wheels along its famous Promenade ring or riverside paths.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster Promenade Ring",
+      "lighting": "Well-lit tree-lined boulevard",
+      "description": "A 4.5 km tree-lined ring encircling the old city, beloved by cyclists and pedestrians alike.",
+      "redirectUrl": "https://maps.google.com/?q=Promenade+Münster",
+      "safetyTips": [
+        "Yield to pedestrians",
+        "Follow cycling direction signs",
+        "Lock bikes at official stands"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "activity": "Soccer",
+    "description": "Organise a casual kick-about on one of Münster's public sports fields.",
+    "groupSuitability": "Best for teams of 6–12 people",
+    "timeRequired": "60–120 min",
+    "image": "https://images.unsplash.com/photo-1599058918144-1ffabb351dce?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Gievenbeck Sports Grounds",
+      "lighting": "Floodlit pitches available in evenings",
+      "description": "Public football pitches with marked fields — first come, first served.",
+      "redirectUrl": "https://maps.google.com/?q=Gievenbeck+Sportplatz+Münster",
+      "safetyTips": [
+        "Warm up before play",
+        "Bring plenty of water",
+        "Check pitch availability during busy periods"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "activity": "Geocaching",
+    "description": "Use GPS to hunt for hidden caches scattered around Münster's parks and landmarks.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "60–180 min",
+    "image": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster City & Surroundings",
+      "lighting": "Varies by cache location — most are accessible in daylight",
+      "description": "Hundreds of geocaches hidden across Münster — from the city centre to forests and cycle paths.",
+      "redirectUrl": "https://maps.google.com/?q=Münster+city+centre",
+      "safetyTips": [
+        "Download the Geocaching app before you go",
+        "Respect private property",
+        "Return the cache exactly as found"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "activity": "Team Scavenger Hunt",
+    "description": "Race through Münster solving clues at landmarks — a classic team-building adventure.",
+    "groupSuitability": "Best for groups of 6 or more",
+    "timeRequired": "90–180 min",
+    "image": "https://images.unsplash.com/photo-1607627000458-210e8197b2f0?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Münster City Centre",
+      "lighting": "Well-lit city streets and squares",
+      "description": "Create a route linking the Prinzipalmarkt, Dom, Lambertikirche, and Rathaus for a fun city-wide hunt.",
+      "redirectUrl": "https://maps.google.com/?q=Prinzipalmarkt+Münster",
+      "safetyTips": [
+        "Agree meeting points in advance",
+        "Keep groups together in busy areas",
+        "Carry a city map as backup"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "activity": "Zoo Visit",
+    "description": "Spend the day at the award-winning Allwetterzoo Münster — one of Germany's best all-weather zoos.",
+    "groupSuitability": "Great for families and groups of all sizes",
+    "timeRequired": "2–4 hours",
+    "image": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Allwetterzoo Münster",
+      "lighting": "Well-lit covered and outdoor areas",
+      "description": "A large all-weather zoo with covered walkways — enjoyable rain or shine, with over 300 animal species.",
+      "redirectUrl": "https://maps.google.com/?q=Allwetterzoo+Münster",
+      "safetyTips": [
+        "Follow all zoo safety guidelines",
+        "Don't feed the animals",
+        "Keep children within sight at all times"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "activity": "Sledding",
+    "description": "When snow falls, head to the gentle slopes near Münster for exhilarating sledding runs.",
+    "groupSuitability": "Fun for all group sizes",
+    "timeRequired": "30–60 min",
+    "image": "https://images.unsplash.com/photo-1511702771955-48b4c7370602?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Hügel am Preußenstadion",
+      "lighting": "Open area — good natural light in daytime",
+      "description": "A natural slope near the stadium that transforms into a popular sledding hill after snowfall.",
+      "redirectUrl": "https://maps.google.com/?q=Preußenstadion+Münster",
+      "safetyTips": [
+        "Check slope for obstacles before sledding",
+        "Children must be supervised",
+        "Avoid icy patches — walk carefully"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "activity": "Nature Walk",
+    "description": "A gentle stroll through quiet woodland and fields, soaking up the natural surroundings.",
+    "groupSuitability": "Suitable for all group sizes",
+    "timeRequired": "45–90 min",
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Rieselfelder Münster Nature Reserve",
+      "lighting": "Open reserve — good natural light in daytime",
+      "description": "A UNESCO-recognised wetland reserve north of Münster, home to rare birds and wildflowers.",
+      "redirectUrl": "https://maps.google.com/?q=Rieselfelder+Münster",
+      "safetyTips": [
+        "Stick to marked paths to protect nesting wildlife",
+        "No dogs in the reserve",
+        "Bring binoculars for wildlife spotting"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "activity": "Casual Football",
+    "description": "Kick a ball around with friends for a fun, low-key game on the public fields.",
+    "groupSuitability": "Best for small and large groups",
+    "timeRequired": "45–75 min",
+    "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=600",
+    "locationInfo": {
+      "pathNameOrLocationName": "Westpark Meadow & Sports Field",
+      "lighting": "Open meadow — good during daylight",
+      "description": "Large open grass areas in Westpark often used for informal football games — no booking required.",
+      "redirectUrl": "https://maps.google.com/?q=Westpark+Münster",
+      "safetyTips": [
+        "Be mindful of other park users",
+        "No slide tackles on hard ground",
+        "Carry a basic first aid kit"
+      ]
+    }
+  }
+]
