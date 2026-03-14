@@ -91,8 +91,8 @@ class UserInputCategorizer:
         
         age_categories = sorted(age_categories)
 
-        male_max_age = max((member[1] for member in self.members if member[0] == 'male'), default=None)
-        female_max_age = max((member[1] for member in self.members if member[0] == 'female'), default=None)
+        male_max_age = max((member[1] for member in self.members if member[0].lower() == 'male'), default=None)
+        female_max_age = max((member[1] for member in self.members if member[0].lower() == 'female'), default=None)
 
         if male_max_age is not None and female_max_age is not None:
             if female_max_age > male_max_age:

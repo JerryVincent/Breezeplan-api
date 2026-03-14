@@ -82,7 +82,7 @@ async def outdoor_activity_suggestions(request: SuggestionRequest):
     await dataSaver.create_file_if_not_exists("outdoor_activity_data", outdoor_file_path_for_method)
 
     endPoint = "activitySuggestions"
-    file_name_without_extension = file_name.rstrip(".json")
+    file_name_without_extension = file_name.removesuffix(".json")
     if out_hash:
         with open(file_path, mode='r') as file:
             data = file.read()
