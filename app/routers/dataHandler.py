@@ -33,11 +33,12 @@ class ActivityData(BaseModel):
 
 def get_db_instance():
     db_instance = DbConnection()
+    if db_instance.db is None:
+        return None
     try:
-        db_instance.connect()
         db_instance.db.activities.create_index("expDate", expireAfterSeconds=0)
     except Exception as e:
-        return ErrorHandler.handle_database_error(e)
+        return None
     return db_instance
 
 def generate_activity_id(activity: str, location: str):
@@ -55,6 +56,8 @@ def generate_activity_id(activity: str, location: str):
 async def add_activity(activity_data: ActivityData):
     try:
         db_instance = get_db_instance()
+        if db_instance is None:
+            raise HTTPException(status_code=503, detail="Database unavailable")
         activity_id = generate_activity_id(activity_data.activity, activity_data.locationInfo.pathNameOrLocationName)
         activity_dict = activity_data.dict()
         activity_dict["id"] = activity_id
@@ -71,6 +74,8 @@ async def search_activity(
 ):
     try:
         db_instance = get_db_instance()
+        if db_instance is None:
+            raise HTTPException(status_code=503, detail="Database unavailable")
         
         # Build the query dynamically
         query = {}
@@ -96,6 +101,8 @@ async def search_activity(
 async def edit_activity(activity_id: str, updated_data: ActivityData):
     try:
         db_instance = get_db_instance()
+        if db_instance is None:
+            raise HTTPException(status_code=503, detail="Database unavailable")
         update_result = db_instance.db.activities.update_one({"id": activity_id}, {"$set": updated_data.dict()})
         if update_result.matched_count == 0:
             return ErrorHandler.handle_not_found("Activity not found")
@@ -107,6 +114,8 @@ async def edit_activity(activity_id: str, updated_data: ActivityData):
 async def delete_activity(activity_id: str):
     try:
         db_instance = get_db_instance()
+        if db_instance is None:
+            raise HTTPException(status_code=503, detail="Database unavailable")
         delete_result = db_instance.db.activities.delete_one({"id": activity_id})
         if delete_result.deleted_count == 0:
             return ErrorHandler.handle_not_found("Activity not found")

@@ -33,9 +33,10 @@ class DbConnection:
             # Fetch and print the list of collections
             collections = self.db.list_collection_names()
             print(f"Available collections: {collections}")
-        except ConnectionFailure as e:
-            print("Failed to connect to MongoDB:", e)
-            raise ConnectionFailure("Failed to connect to MongoDB: " + str(e))
+        except Exception as e:
+            print("Warning: MongoDB connection failed (non-fatal):", e)
+            self.client = None
+            self.db = None
 
     def close(self):
         """Close the MongoDB connection."""
